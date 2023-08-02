@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: #212121;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+
+  body {
+    background-color: whitesmoke;
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+
+  }
+
+  p{color: #212121}
+  h2{color: #212121}
+  button {
+    width: 35%;
+      background: black;
+    color: whitesmoke;
+    border: none;
+    font-size: 12px;
+    border-radius: 20px;
+      box-shadow: 0 10px 35px rgba(0, 0, 0.3);
+cursor: pointer;
+}
